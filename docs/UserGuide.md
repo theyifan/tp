@@ -598,14 +598,16 @@ Adding a new hairdresser: <br>
 1. Type `add_hairdresser n/Helen Lim p/82716252 e/helenlim@example.com g/F ti/Senior Stylist s/Perm s/Color` into the *Command Box*.
 1. Press `Enter` to execute.
 
+![AddHairdresserStep](images/hairdresser/AddHairdresserStep.png)
+
 Outcome: <br>
 
 1. The `Result Display` will show a success message. 
 1. You can now see the hairdresser's information in the *Hairdressers Panel*.
 
-</div>
-
 ![AddHairdresserOutcome](images/hairdresser/AddHairdresserOutcome.png)
+
+</div>
 
 #### 4.3.3 Listing all hairdressers : `list_hairdresser`
 
