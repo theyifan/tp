@@ -677,14 +677,16 @@ Editing a new hairdresser: <br>
 1. Type `edit_hairdresser 3 p/91234567 e/yy@example.com` into the *Command Box*.
 1. Press `Enter` to execute.
 
+![EditHairdresserStep](images/hairdresser/EditHairdresserStep.png)
+
 Outcome: <br>
 
 1. The `Result Display` will show a success message. 
 1. You can now see the updated hairdresser's information in the *Hairdressers Panel*.
 
-</div>
-
 ![EditHairdresserOutcome](images/hairdresser/EditHairdresserOutcome.png)
+
+</div>
 
 #### 4.3.5 Deleting a hairdresser : `delete_hairdresser`
 
@@ -715,13 +717,15 @@ Delete hairdresser: <br>
 1. Type `delete_hairdresser 3` into the *Command Box*.
 1. Press `Enter` to execute.
 
+![DeleteHairdresserStep](images/hairdresser/DeleteHairdresserStep.png)
+
 Outcome: <br>
 
 1. The `Result Display` will show a success message.
 
-</div>
-
 ![DeleteHairdresserOutcome](images/hairdresser/DeleteHairdresserOutcome.png)
+
+</div>
 
 #### 4.3.6 Filtering hairdressers : `filter_hairdresser`
 
@@ -753,14 +757,16 @@ Filter hairdresser: <br>
 1. Type `filter_hairdresser bella` into the *Command Box*.
 1. Press `Enter` to execute.
 
+![FilterHairdresserStep](images/hairdresser/FilterHairdresserStep.png)
+
 Outcome: <br>
 
 1. The `Result Display` will show a success message.
 1. You can now see the filtered hairdresser's information in the *Hairdressers Panel*, with hairdressers named `bella` displayed in the list.
 
-</div>
-
 ![FilterHairdresserOutcome](images/hairdresser/FilterHairdresserOutcome.png)
+
+</div>
 
 ### 4.4 Appointment Management
 
